@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hey 👋🏽, I'm Jun Shi !
 
-![](https://visitor-badge.glitch.me/badge?page_id=shijun18.shijun18)
+
 
 👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
 
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2029%20mins-blue)
 
+![](https://visitor-badge.glitch.me/badge?page_id=shijun18.shijun18)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -46,8 +48,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
 
  Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
