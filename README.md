@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 
 👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
 
-![](https://github.com/shijun18/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/shijun18/github-stats/blob/master/generated/languages.svg)
+<!-- ![](https://github.com/shijun18/github-stats/blob/master/generated/overview.svg) -->
+<!-- ![](https://github.com/shijun18/github-stats/blob/master/generated/languages.svg) -->
+
+![](https://raw.githubusercontent.com/shijun18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shijun18/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/shijun18/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shijun18/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijun18&theme=flag-india&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
