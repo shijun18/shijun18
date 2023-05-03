@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Hey 👋🏽, I'm Jun Shi !
 
 
@@ -29,16 +30,18 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/shijun18/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijun18&theme=flag-india&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijun18&theme=flag-india&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijun18&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shijun18&theme=vue)
 
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
 
-![](https://visitor-badge.glitch.me/badge?page_id=shijun18.shijun18)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=shijun18.shijun18) -->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.1%20Million%20lines%20of%20code-blue)
 
