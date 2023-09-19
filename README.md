@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 410.0 kB Used in GitHub's Storage 
+> 📦 429.4 kB Used in GitHub's Storage 
  > 
 > 🏆 195 Contributions in the Year 2023
  > 
@@ -91,8 +91,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            █████████████████████░░░░   83.72 % 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Python                   35 repos            ████████████████████░░░░░   81.40 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
@@ -103,7 +103,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2023 01:34:14 UTC
+ Last Updated on 19/09/2023 12:52:50 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
