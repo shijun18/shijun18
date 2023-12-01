@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,17 +76,18 @@ Sunday                   227 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   42 mins             ███████████████████████░░   91.31 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Python                   1 hr 14 mins        ███████████████████████░░   93.86 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AL-MedSeg                46 mins             █████████████████████████   100.00 % 
+AL-MedSeg                1 hr 13 mins        ███████████████████████░░   92.34 % 
+Med_Seg                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +105,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 01:45:57 UTC
+ Last Updated on 01/12/2023 12:52:49 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
