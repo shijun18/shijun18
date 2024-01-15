@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 430.3 kB Used in GitHub's Storage 
+> 📦 430.4 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2024
  > 
@@ -104,7 +104,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2024 01:43:17 UTC
+ Last Updated on 15/01/2024 12:53:32 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
