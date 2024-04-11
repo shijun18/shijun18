@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2031%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -58,13 +56,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Tuesday                  258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Monday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 Wednesday                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Thursday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Sunday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Sunday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 ```
 
 
@@ -101,7 +99,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 12:49:04 UTC
+ Last Updated on 11/04/2024 01:35:09 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
