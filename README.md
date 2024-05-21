@@ -39,17 +39,17 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 430.6 kB Used in GitHub's Storage 
+> 📦 433.1 kB Used in GitHub's Storage 
  > 
-> 🏆 148 Contributions in the Year 2024
+> 🏆 149 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +60,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 Wednesday                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Thursday                 237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 344 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Sunday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 344 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Sunday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 ```
 
 
@@ -103,7 +103,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 01:39:03 UTC
+ Last Updated on 21/05/2024 12:52:42 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
