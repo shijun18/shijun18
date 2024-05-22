@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 433.1 kB Used in GitHub's Storage 
+> 📦 433.2 kB Used in GitHub's Storage 
  > 
-> 🏆 149 Contributions in the Year 2024
+> 🏆 150 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +60,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Tuesday                  265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Wednesday                306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 Thursday                 237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 Friday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 344 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Sunday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 344 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Sunday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 ```
 
 
@@ -76,16 +76,17 @@ Sunday                   258 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             █████████████████░░░░░░░░   67.35 % 
+JSON                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PAAL-MedSeg              24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +104,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 12:52:42 UTC
+ Last Updated on 22/05/2024 01:39:56 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
