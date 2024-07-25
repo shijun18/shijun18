@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 
 > 📦 433.2 kB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2024
+> 🏆 214 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,11 +60,11 @@ Here are some ideas to get you started:
 ```text
 Monday                   309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 Tuesday                  274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                316 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Thursday                 246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Friday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Sunday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                316 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Friday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Sunday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
 
@@ -103,7 +101,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 12:54:46 UTC
+ Last Updated on 25/07/2024 01:46:25 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
