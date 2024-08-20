@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 > 📦 433.3 kB Used in GitHub's Storage 
  > 
-> 🏆 242 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 85 Public Repositories 
@@ -103,7 +101,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 01:48:13 UTC
+ Last Updated on 20/08/2024 12:56:15 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
