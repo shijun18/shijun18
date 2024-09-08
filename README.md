@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 
 > 📦 433.3 kB Used in GitHub's Storage 
  > 
-> 🏆 261 Contributions in the Year 2024
+> 🏆 262 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +58,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 Wednesday                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Friday                   277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 361 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 361 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Sunday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 ```
 
 
@@ -103,7 +101,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 12:54:41 UTC
+ Last Updated on 08/09/2024 02:03:05 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
