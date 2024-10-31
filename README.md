@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 > 📦 433.3 kB Used in GitHub's Storage 
  > 
-> 🏆 315 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 85 Public Repositories 
@@ -60,12 +58,12 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Tuesday                  288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Monday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 Wednesday                331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Thursday                 261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 Friday                   284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 368 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 368 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 Sunday                   281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 ```
 
@@ -103,7 +101,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 13:01:58 UTC
+ Last Updated on 31/10/2024 02:07:09 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
