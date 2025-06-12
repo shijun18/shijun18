@@ -91,9 +91,9 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   41 repos            █████████████████████░░░░   83.67 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Python                   42 repos            █████████████████████░░░░   84.00 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -103,7 +103,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 02:24:50 UTC
+ Last Updated on 12/06/2025 13:09:36 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
