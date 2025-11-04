@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 
 > 📦 434.6 kB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2025
+> 🏆 308 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,12 +59,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 Wednesday                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Friday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 423 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 423 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Sunday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 
 
@@ -103,7 +101,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 13:08:32 UTC
+ Last Updated on 04/11/2025 02:19:01 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
