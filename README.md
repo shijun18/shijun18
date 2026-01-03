@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.15%20million%20lines%20of%20code-blue)
@@ -57,37 +55,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 13 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   384 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Wednesday                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Thursday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Friday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Saturday                 431 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Sunday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,7 +70,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 13:10:19 UTC
+ Last Updated on 03/01/2026 02:26:24 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
