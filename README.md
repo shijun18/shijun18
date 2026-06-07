@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.15%20million%20lines%20of%20code-blue?style=flat)
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 
 > 📦 434.9 kB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,8 +63,8 @@ Tuesday                  371 commits         ███░░░░░░░░�
 Wednesday                414 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Thursday                 344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Saturday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Sunday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Saturday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Sunday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 
 
@@ -103,7 +101,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 14:17:43 UTC
+ Last Updated on 07/06/2026 05:08:07 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
