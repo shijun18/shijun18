@@ -43,13 +43,11 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.21%20million%20lines%20of%20code-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 437.3 kB Used in GitHub's Storage 
+> 📦 437.4 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2026
+> 🏆 188 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +58,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                430 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Friday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Sunday                   380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Tuesday                  376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Friday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Sunday                   380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 ```
 
 
@@ -104,7 +102,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 13:14:23 UTC
+ Last Updated on 17/06/2026 16:13:29 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
