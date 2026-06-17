@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/
+👯 My school: http://en.ustc.edu.cn/. My lab: https://acsa.ustc.edu.cn/. My Website: https://shijun.acsalab.com/
 
 <!-- ![](https://github.com/shijun18/github-stats/blob/master/generated/overview.svg) -->
 <!-- ![](https://github.com/shijun18/github-stats/blob/master/generated/languages.svg) -->
@@ -39,6 +39,72 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.21%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 437.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 178 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 88 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Tuesday                  376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                422 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Friday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Sunday                   380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   42 repos            █████████████████████░░░░   84.00 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/shijun18/shijun18/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/06/2026 05:25:44 UTC
 <!--END_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1024%20hrs%2048%20mins-blue)
