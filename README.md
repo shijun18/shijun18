@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shijun18&theme=vue)
 
-![snake gif](https://github.com/shijun18/shijun18/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/shijun18/shijun18/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%208%20mins-blue?style=flat)
